@@ -1,7 +1,7 @@
 const fs = require('fs');
 require('dotenv').config(); // To read from .env file
 
-const SESSION_ID = process.env.SESSION_ID || '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=pdpnVCJZ#n-5gi-SQuaq86cL0jlOgX7Vrej_ctnw-_H_YvXGkE1g';
+const SESSION_ID = process.env.SESSION_ID || '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=ZYZikQCJ#lUQQwM_EexS5pXRnQtVVT-Gbvro65VetUxjPvJqB_Fg';
 
 module.exports = {
   SESSION_ID,
